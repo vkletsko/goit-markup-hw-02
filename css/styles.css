@@ -71,15 +71,13 @@ header .studio-in-logo {
 .header {
   margin-left: auto;
   margin-right: auto;
-  width: 1170px;
- 
 }
 
 /* nav */
 .nav-menu-link {
   color: var(--text-color-100);
   font-weight: 500;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.14;
 }
 
@@ -96,12 +94,12 @@ header .studio-in-logo {
 .contacts-header {
   color: var(--text-color-100);
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
 }
 .contacts-link {
+  font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--text-color-200);
@@ -144,11 +142,9 @@ header .studio-in-logo {
 
 .hero-title {
   color: var(--light-color-100);
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  text-transform: uppercase;
   text-align: center;
 }
 
@@ -211,7 +207,6 @@ header .studio-in-logo {
   color: var(--text-color-100);
 }
 .features-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -219,7 +214,6 @@ header .studio-in-logo {
 
 .title-portfolio {
   color: var(--text-color-100);
-  font-weight: 700;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
@@ -247,7 +241,6 @@ header .studio-in-logo {
 }
 
 .team.team-member-postion {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
   letter-spacing: 0.02em;
