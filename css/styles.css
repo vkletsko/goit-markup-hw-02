@@ -111,7 +111,7 @@ header .studio-in-logo {
 
 .features-title,
 .specializations-title,
-.portfolio-title
+.portfolio-title,
 .team-title {
   font-size: 36px;
   line-height: 1.11;
@@ -232,7 +232,7 @@ header .studio-in-logo {
   background: var(--light-color-300);
 }
 
-.team.team-member-name {
+.team-member-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -241,7 +241,7 @@ header .studio-in-logo {
   color: var(--text-color-100);
 }
 
-.team.team-member-postion {
+.team-member-position {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
